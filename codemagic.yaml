@@ -1,6 +1,6 @@
 workflows:
   ios-release:
-    name: Simple iOS Build (No App Store)
+    name: Sinal_Event
     max_build_duration: 60
 
     environment:
